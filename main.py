@@ -15,7 +15,7 @@ script = "Push Discord"
 print("Script: " + script)
 telegram = "@p2crypto"
 print("Telegram: " + telegram)
-youtube = " @p2crypto"
+youtube = " https://m.youtube.com/@usermuda"
 print("Youtube: " + youtube)
 print("=======================")
 print('TIDAK DIPERJUAL-BELIKAN')
