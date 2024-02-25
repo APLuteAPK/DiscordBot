@@ -3,7 +3,7 @@
 pkg install git
 ```
 ```
-git clone hhttps://github.com/APLuteAPK/DiscordBot
+git clone https://github.com/APLuteAPK/DiscordBot
 ```
 ```
 pkg install python
