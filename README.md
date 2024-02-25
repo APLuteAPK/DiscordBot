@@ -1,4 +1,4 @@
-# Cara Install Di Termux
+# Cara Install Di Termux Android
 ```
 pkg install git
 ```
