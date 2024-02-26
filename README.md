@@ -23,6 +23,6 @@ cd DiscordBot
 ```
 python main.py
 ```
-Created  : https://t.me/p2crypto
+Created : https://t.me/p2crypto
 
-Aplikasi : https://bit.ly/termuxVersi01180
+Termux  : https://bit.ly/termuxVersi01180
